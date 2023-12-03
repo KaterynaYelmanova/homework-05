@@ -585,6 +585,9 @@ color: #434455;
 .review-form-field-wrapper {
     margin-bottom: 8px;
 }
+.review-form-field-comment {
+    margin-bottom: 16px;
+}
 .review-form-field-label {
     display: block;
         font-size: 12px;
