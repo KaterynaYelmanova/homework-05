@@ -554,6 +554,7 @@ color: #434455;
 .modal-close-btn:focus {
     fill: #FFFFFF;
     background-color: #404BBF;
+    border: none;
 }
 .modal-close-btn-icon {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -582,7 +583,7 @@ color: #434455;
     border-color: #4D5AE5;
 }
 .review-form-field-wrapper {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 .review-form-field-label {
     display: block;
@@ -631,7 +632,7 @@ color: #434455;
     border-color: #4D5AE5;
 }
 .review-form-checkbox-wrapper {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 .review-form-checkbox-label {
         font-size: 12px;
@@ -695,6 +696,7 @@ color: #434455;
 }
 .review-form-submit-btn:hover, .review-form-submit-btn:focus {
     background-color: #404BBF;
+    border: none;
 }
 .accent-color {
     color: #4d5ae5;
